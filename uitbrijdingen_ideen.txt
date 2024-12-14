@@ -1,0 +1,4 @@
+cheat screen:
+je kan setting van alles aanpassen bijvoorbeeld aantal molen, hoe snel ze van plek veranderen, grootte, je score aanpassen, foute in het spel her toevoegen.
+
+mol texture veranderen door foto te maken.
